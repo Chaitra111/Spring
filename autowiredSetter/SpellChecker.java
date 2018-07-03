@@ -1,4 +1,4 @@
-package com.Spring_1.autowireConstructor;
+package com.Spring_1.autowiredSetter;
 
 public class SpellChecker {
 
